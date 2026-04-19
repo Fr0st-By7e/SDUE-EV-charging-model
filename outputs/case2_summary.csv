@@ -1,0 +1,15 @@
+metric,value
+case_name,case2_price_incentives
+num_fast_events,465
+total_fast_energy_kwh,5724.527183818683
+total_fast_cost_$,5012.2414128155415
+num_slow_events,1142
+H_charged_kwh,4554.660168644964
+H_deferrable_kwh,4513.147299805539
+H_avg_max_delay_h,5.694646833579949
+W_charged_kwh,2607.899227324032
+W_deferrable_kwh,2607.899227324032
+W_avg_max_delay_h,8.825023185791853
+O_charged_kwh,1099.8835046363918
+O_deferrable_kwh,1059.0044341066905
+O_avg_max_delay_h,2.2058177525883913
